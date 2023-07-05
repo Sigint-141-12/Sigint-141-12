@@ -13,8 +13,18 @@ As my career has progressed :ladder: and I began managing projects and then peop
 📊 *How is everyone's workload?*    
 👥 *Are we resourced properly?*    
 
-Now, I want to make 'data' my career and...
+I've defintely been an amateur data "scientist" up to this point, getting by on enthusiasm and no reluctance to ask questions. But now I'm studying to learn new skills, technologies and techniques, hoping to become an actual Data Scientist
 
+
+🔭 I’m currently working on:
+- R code to import flow cytometry data and output in SAS friendly formats
+- 
+🌱 I’m currently learning ...
+- Business intelligence and analytics
+- Statistics for data science
+
+⚡ Fun fact:
+- I have a cat called Flo 🐈
 <!--
 **Sigint-141-12/Sigint-141-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
