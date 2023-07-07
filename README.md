@@ -13,7 +13,7 @@ As my career has progressed :ladder: and I began managing projects and then peop
 📊 *How is everyone's workload?*    
 👥 *Are we resourced properly?*    
 
-I've defintely been an amateur data "scientist" up to this point, getting by on enthusiasm and no reluctance to ask questions. But now I'm studying to learn new skills, technologies and techniques, hoping to become an actual Data Scientist
+I've definitely been an amateur data "scientist" up to this point, getting by on enthusiasm and no reluctance to ask questions. But now I'm studying to learn new skills, technologies and techniques, hoping to become an actual Data Scientist
 
 
 🔭 I’m currently working on:
