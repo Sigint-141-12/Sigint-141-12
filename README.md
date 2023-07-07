@@ -24,7 +24,7 @@ I've definitely been an amateur data "scientist" up to this point, getting by on
 - Statistics for data science
 
 ⚡ Fun fact:
-- I have a cat called Flo 🐈
+- My cat’s names is Flo. She is orange. 🐈
 <!--
 **Sigint-141-12/Sigint-141-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
