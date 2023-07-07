@@ -18,7 +18,7 @@ I've definitely been an amateur data "scientist" up to this point, getting by on
 
 🔭 I’m currently working on:
 - R code to import flow cytometry data and output in SAS friendly formats
-- 
+  
 🌱 I’m currently learning ...
 - Business intelligence and analytics
 - Statistics for data science
