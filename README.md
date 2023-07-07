@@ -1,7 +1,7 @@
-#Hello, I'm Tom 👋
+# Hello, I'm Tom 👋
 I'm a Bioanalytical Scientist :pill:  studying to become a Data Scientist :computer:
 
-###Intro
+### Intro
 Answering questions :thinking: using data has always been my favourite part of bioanalysis;   
 🔬 *Is this drug working?*     
 📉 *What's the optimal dose?*      
