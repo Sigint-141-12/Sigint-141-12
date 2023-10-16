@@ -1,5 +1,5 @@
 # Hello, I'm Tom 👋
-I'm a Bioanalytical Scientist :pill: studying to become a Data Scientist :computer:
+I'm a Bioanalytical Scientist :pill: and a Data Scientist :computer:
 
 ### Intro
 Answering questions using data has always been my favourite part of bioanalysis;   
@@ -13,11 +13,12 @@ As my career has progressed and I began managing projects and then people, I enj
 📊 *How is everyone's workload?*    
 👥 *Are we resourced properly?*    
 
-I've definitely been an amateur data "scientist" up to this point, getting by on enthusiasm and no reluctance to ask questions. But now I'm studying to learn new skills, technologies and techniques, hoping to become an actual Data Scientist
+I've was definitely  an amateur data "scientist", getting by on enthusiasm and no reluctance to ask questions. But now I've learned new skills, technologies and techniques, becoming an actual Data Scientist
 
 
 🔭 I’m currently working on:
 - R code to import flow cytometry data and output in SAS friendly formats
+- Experimenting with regression diagnostics in Tableau
   
 🌱 I’m currently learning ...
 - Business intelligence and analytics
